@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz8react/static/css/main.f855e6bc.css",
+    "main.js": "/dz8react/static/js/main.27a32412.js",
+    "static/js/453.3149b2c4.chunk.js": "/dz8react/static/js/453.3149b2c4.chunk.js",
+    "index.html": "/dz8react/index.html",
+    "main.f855e6bc.css.map": "/dz8react/static/css/main.f855e6bc.css.map",
+    "main.27a32412.js.map": "/dz8react/static/js/main.27a32412.js.map",
+    "453.3149b2c4.chunk.js.map": "/dz8react/static/js/453.3149b2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.27a32412.js"
+  ]
+}
